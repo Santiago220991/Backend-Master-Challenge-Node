@@ -48,7 +48,7 @@ Builds the project.
 First builds and then starts the server.
 
 ### API endpoints
-#### 1. `/insert`
+#### 1. `/`
 ```
 Request type: POST
 Data parameters: name, category, brandName, images
