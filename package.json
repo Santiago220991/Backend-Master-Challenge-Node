@@ -1,7 +1,7 @@
 {
-  "name": "restful-product-catalog",
+  "name": "restful-API-product-catalog",
   "version": "1.0.0",
-  "description": "A RESTful API for a product catalog.",
+  "description": "This is a RESTful API for a catalog of products.",
   "main": "index.js",
   "scripts": {
     "build": "rimraf dist/ && babel ./ --out-dir dist/ --copy-files",
