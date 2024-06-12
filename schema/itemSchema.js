@@ -1,10 +1,6 @@
 import mongoose from 'mongoose'
 const Schema = mongoose.Schema
 
-/**
- * Item Schema
- * @constant {Schema}
- */
 const itemSchema = {
   name: {
     type: String,
